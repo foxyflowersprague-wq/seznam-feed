@@ -21,12 +21,6 @@
 
     <ITEMGROUP_ID>271118901682</ITEMGROUP_ID>
 
-    <DELIVERY>
-      <DELIVERY_ID>Kurýr</DELIVERY_ID>
-      <DELIVERY_PRICE>129</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-    </DELIVERY>
-
     <PARAM>
       <PARAM_NAME>Barva</PARAM_NAME>
       <VAL>černá</VAL>
@@ -47,7 +41,8 @@
       <VAL>Ruční výroba v Praze, Minimalistický design, Nízká údržba, Dárek</VAL>
     </PARAM>
 
-  </SHOPITEM>
-
-</SHOP>
+    <DELIVERY>
+      <DELIVERY_ID>Kurýr</DELIVERY_ID>
+      <DELIVERY_PRICE>129</DELIVERY_PRICE>
+      <DELIVERY_PRIC_
 
