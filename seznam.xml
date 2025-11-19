@@ -11,14 +11,14 @@
     <PRODUCT>Rostlinné terárium Cristal se sukulenty</PRODUCT>
 
     <DESCRIPTION>
-      Rostlinné terárium „Cristal“ se sukulenty, ručně vyráběné v Praze. 
-      Minimalistická přírodní dekorace z kvalitního skla, která vydrží roky s minimální péčí. 
+      Rostlinné terárium „Cristal“ se sukulenty, ručně vyráběné v Praze.
+      Minimalistická přírodní dekorace z kvalitního skla, která vydrží roky s minimální péčí.
       Ideální jako dárek i designový doplněk do interiéru.
     </DESCRIPTION>
 
     <IMGURL>https://static.tildacdn.com/stor3939-6531-4232-a437-613134323363/13635266.jpg</IMGURL>
 
-    <PRICE_VAT>2600</PRICE_VAT>
+    <PRICE_VAT>2600</PRICE_VAT>  
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <CONDITION>new</CONDITION>
 
@@ -45,12 +45,6 @@
       <PARAM_NAME>Vlastnosti</PARAM_NAME>
       <VAL>Ruční výroba v Praze, Minimalistický design, Nízká údržba, Dárek</VAL>
     </PARAM>
-
-    <DELIVERY>
-      <DELIVERY_ID>DPD</DELIVERY_ID>
-      <DELIVERY_PRICE>250</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-    </DELIVERY>
 
   </SHOPITEM>
 
