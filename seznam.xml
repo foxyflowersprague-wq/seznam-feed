@@ -3,12 +3,18 @@
 
   <SHOPITEM>
     <ITEM_ID>586939864162</ITEM_ID>
+
     <URL>https://green-stories.cz/shop/tproduct/271118901682-florrium-cristal?editionuid=586939864162</URL>
     <CATEGORYTEXT>Domov a zahrada | Dekorace | Rostlinné terárium</CATEGORYTEXT>
 
     <PRODUCTNAME>Rostlinné terárium Cristal – Green Stories</PRODUCTNAME>
     <PRODUCT>Rostlinné terárium Cristal se sukulenty</PRODUCT>
-    <DESCRIPTION>Rostlinné terárium „Cristal“ se sukulenty, ručně vyráběné v Praze. Minimalistická přírodní dekorace z kvalitního skla, která vydrží roky s minimální péčí. Ideální jako dárek i designový doplněk do interiéru.</DESCRIPTION>
+
+    <DESCRIPTION>
+      Rostlinné terárium „Cristal“ se sukulenty, ručně vyráběné v Praze. 
+      Minimalistická přírodní dekorace z kvalitního skla, která vydrží roky s minimální péčí. 
+      Ideální jako dárek i designový doplněk do interiéru.
+    </DESCRIPTION>
 
     <IMGURL>https://static.tildacdn.com/stor3939-6531-4232-a437-613134323363/13635266.jpg</IMGURL>
 
@@ -18,7 +24,6 @@
 
     <MANUFACTURER>Green Stories</MANUFACTURER>
     <PRODUCTNO>GS072</PRODUCTNO>
-
     <ITEMGROUP_ID>271118901682</ITEMGROUP_ID>
 
     <PARAM>
@@ -42,7 +47,12 @@
     </PARAM>
 
     <DELIVERY>
-      <DELIVERY_ID>Kurýr</DELIVERY_ID>
-      <DELIVERY_PRICE>129</DELIVERY_PRICE>
-      <DELIVERY_PRIC_
+      <DELIVERY_ID>DPD</DELIVERY_ID>
+      <DELIVERY_PRICE>250</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+    </DELIVERY>
+
+  </SHOPITEM>
+
+</SHOP>
 
