@@ -43,5 +43,43 @@
     </PARAM>
 
   </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>900932057722</ITEM_ID>
+
+    <PRODUCTNAME>Rostlinné terárium Moon – Green Stories</PRODUCTNAME>
+    <PRODUCT>Rostlinné terárium “Moon” se sukulenty – ruční výroba v Praze (Green Stories)</PRODUCT>
+
+    <DESCRIPTION>Rostlinné terárium “Moon” se sukulenty, ručně vyráběné v Praze. Minimalistická dekorace z kvalitního skla a černé kovové konstrukce. Elegantní doplněk do interiéru s dlouhou životností a velmi snadnou údržbou.</DESCRIPTION>
+
+    <URL>https://green-stories.cz/shop/tproduct/900932057722-rostlinn-terrium-moon</URL>
+
+    <IMGURL>https://optim.tildacdn.com/stor3934-6238-4536-b862-373262626565/-/format/webp/57948189.jpg.webp</IMGURL>
+
+    <PRICE_VAT>2750</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+
+    <CATEGORYTEXT>Domov a zahrada | Dekorace | Rostlinné terárium</CATEGORYTEXT>
+
+    <MANUFACTURER>Green Stories</MANUFACTURER>
+    <PRODUCTNO>GS-MOON</PRODUCTNO>
+
+    <DELIVERY>
+        <DELIVERY_ID>DPD</DELIVERY_ID>
+        <DELIVERY_PRICE>250</DELIVERY_PRICE>
+        <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+    </DELIVERY>
+
+    <PARAM>
+        <PARAM_NAME>Barva</PARAM_NAME>
+        <VAL>černá</VAL>
+    </PARAM>
+
+    <PARAM>
+        <PARAM_NAME>Velikost</PARAM_NAME>
+        <VAL>20×20 cm</VAL>
+    </PARAM>
+
+    <CONDITION>new</CONDITION>
+</SHOPITEM>
 
 </SHOP>
